@@ -19,9 +19,9 @@
 >
 
 <p align="center">
-  <a href="https://github.com/pepesir/Bosco#requirements">Requirements</a> •
-  <a href="https://github.com/pepesir/Bosco#simple-method">Installation</a> •
-  <a href="https://github.com/pepesir/Bosco#thanks-to">Thanks to</a>
+  <a href="https://github.com/ERR0R-x-PREDAT0R/Predator#requirements">Requirements</a> •
+  <a href="https://github.com/ERR0R-x-PREDAT0R/Predator#simple-method">Installation</a> •
+  <a href="https://github.com/ERR0R-x-PREDAT0R/Predator#thanks-to">Thanks to</a>
 </p>
 </div>
 
@@ -32,7 +32,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pepesir/PEPE-SIR-Qr-code?v=1) 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pepesir/Bosco/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ERR0R-x-PREDAT0R/Predator/)
 
 ### `ADD BUILDPACK`
 
@@ -49,7 +49,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 ### `FOR TERMUX`
 
 * Yeah , It's now available for termux
-* First fork this repo and change session in <a href="https://github.com/pepesir/Bosco/blob/master/Denis.json">Denis.json</a> ,Then follow these commands ✅
+* First fork this repo and change session in <a href="https://github.comERR0R-x-PREDAT0R/Predator/blob/master/Denis.json">Denis.json</a> ,Then follow these commands ✅
 * NOTE : U HAVE TO CLONE YOUR FORKED REPO , NOT MINE REPO !!
 
 
@@ -64,7 +64,7 @@ pkg install git
 pkg install bash
 ```
 ```
-git clone https://github.com/pepesir/Bosco.git 
+git clone https://github.com/ERR0R-x-PREDAT0R/Predator.git 
 ```
 ```
 cd Bosco
@@ -102,11 +102,7 @@ you can contact us
 ```
 
 ### `THANKS TO`
-* 𝙳𝙴𝙽𝙸𝚂 𝚂𝙸𝚁
-* [`𝙺𝚁𝙸𝚉 𝚂𝙸𝚁`](https://github.com/KANNANSIR)
 * [`𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`](https://github.com/pepesir)
-* [`𝚃𝙰𝚄𝚁𝚄𝚂`](https://github.com/I-AM-MUHAMMED)
-* [`𝙰𝙲𝙷𝚄 𝚂𝙸𝚁`](https://github.com/ACHUSIR8)
 * [`𝙱𝙰𝙸𝙻𝙴𝚈𝚂`](https://github.com/adiwajshing/Baileys)
 
 
