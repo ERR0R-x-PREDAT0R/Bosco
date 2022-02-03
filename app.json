@@ -1,9 +1,9 @@
 {
-  "name": "Bosco",
-  "description": "Bosco is a whatsapp bot made by @pepe sir with baileys",
-  "repository": "https://github.com/pepesir/Bosco",
-  "logo": "https://telegra.ph/file/f40d0ef77439f516c050f.jpg",
-  "keywords": ["bosco", "nodejs", "bot", "whatsapp bot", "whatsapp automation"],
+  "name": "Predator",
+  "description": "Predator is a whatsapp bot made by @pepe sir with baileys",
+  "repository": "https://github.com/ERR0R-x-PREDAT0R/Predator",
+  "logo": "https://imgur.com/cyXOi6o.jpeg",
+  "keywords": ["Predator","bosco", "nodejs", "bot", "whatsapp bot", "whatsapp automation"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
